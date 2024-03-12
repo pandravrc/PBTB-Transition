@@ -1,5 +1,6 @@
 # 機能
 - State0とState1、それぞれのStateの間に再生するTrandition01、Trandition10が存在する時、1つの同期BoolSWITCHでそれらの動作をコントロールします。
+![PBTB](https://github.com/pandravrc/PBTB-Transition/blob/main/img.png)
 
 # 使用法
 - 適当な作業フォルダを作成、PBTBを導入して本Editorを入れて下さい。

@@ -1,5 +1,5 @@
 # 機能
-- State0とState1、それぞれのStateの間に再生するTrandition01、Trandition10が存在する時、1つの同期BoolSWITCHでそれらの動作をコントロールします。
+- State0とState1、それぞれのStateの間に再生するTrandition01、Trandition10が存在する時、1つの同期BoolSWITCHでそれらの動作をコントロールするためのDirectBlendTreeを生成します。
 ![PBTB](https://github.com/pandravrc/PBTB-Transition/blob/main/img.png)
 
 # 使用法
